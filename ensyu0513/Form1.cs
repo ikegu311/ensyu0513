@@ -19,7 +19,7 @@ namespace ensyu0513
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.Text = "押された";
+            button1.Text = "むむむむ";
         }
 
         private void button2_Click(object sender, EventArgs e)
